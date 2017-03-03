@@ -1,0 +1,53 @@
+body {
+    height: 100%;
+}
+
+.navbar2 {
+    padding: 40px 0;
+}
+
+.navbar2 h1 {
+    margin-top: 0;
+    text-align: center;
+    color: #0918E8;
+}
+
+.navbar2 h3 {
+    font-style: italic;
+}
+
+.Rcontainer {
+    background-color: #DFE5EB;
+    padding: 10px 20px;
+    height: 200px;
+}
+
+.Rcontainer-titre {
+    text-align: center;
+
+}
+
+/*--------FOOOTERRRR----------*/
+footer
+{
+    position: absolute;
+        bottom: 0;
+}
+
+#footer
+{
+    margin-left: 350px;
+    background-color: #0530F0;
+    width: 670px;
+    border-left: 1px solid #78797b;
+    border-right: 1px solid #78797b;
+    padding-bottom: 3px;
+}
+
+footer p
+{
+    margin: 0 0 0px 20px;
+    text-align: center;
+    color: #f5f8fd;
+    font-size: 11px;
+}
